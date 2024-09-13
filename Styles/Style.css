@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    background-color: #5a4747;
+    color: #ffffff;
+
+    font-family: "Bree Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 30px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 025);
+}
+
