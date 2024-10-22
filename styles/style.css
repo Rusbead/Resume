@@ -25,7 +25,7 @@ table tr {
 
 #leftCol {
     float: left;
-    width: 26%;
+    width: 30%;
     background: #0D7377;
     
     text-align: left;
@@ -34,6 +34,10 @@ table tr {
 
     height: 100%;
 }
+
+/* #leftCol table {
+    width: 50%;
+}  */
 
 #leftCol fieldset {
     margin-bottom: 20px;
@@ -76,7 +80,7 @@ table tr {
     background: #15B7B9;
 
     text-align: left;
-    width: 74%;
+    width: 70%;
 
     color: black;
 
@@ -87,6 +91,13 @@ table tr {
 
 #rightCol table tr {
     height: 80px;
+    
+}
+
+#rightCol table td {
+    width: 10px;
+    padding-left: 0;
+    
 }
 
 #rightCol fieldset {
