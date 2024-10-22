@@ -89,15 +89,19 @@ table tr {
     height: 100%;
 }
 
-#rightCol table tr {
-    height: 80px;
-    
+#rightCol fieldset table {
+    /* border: 1px solid red; */
 }
 
-#rightCol table td {
-    width: 10px;
+#rightCol fieldset table tr {
+    height: 80px;
+}
+
+#rightCol fieldset table tr td {
     padding-left: 0;
-    
+    /* border-bottom: 5px solid red; */
+    vertical-align: middle;
+    text-align: left;
 }
 
 #rightCol fieldset {
@@ -117,9 +121,9 @@ table tr {
     margin-bottom: 50px;
 }
 
-#rightCol #courses {
+/* #rightCol #courses {
     border: none;
-}
+} */
 
 
 
