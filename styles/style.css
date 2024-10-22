@@ -1,10 +1,9 @@
-
 #avatar {
     width: 100%;
 }
 
 .main {
-    height: 2200px;
+    height: auto;
 }
 
 table {
@@ -14,7 +13,6 @@ table {
 table td {
     text-align: left;
     vertical-align: top;
-
 }
 
 table tr {
@@ -54,7 +52,6 @@ table tr {
 #leftCol h1 {
     text-align: center;
     color: white;
-    padding-bottom: 10px;
 }
 
 .contactsIcons img {
@@ -88,11 +85,15 @@ table tr {
     height: 100%;
 }
 
+#rightCol table tr {
+    height: 80px;
+}
+
 #rightCol fieldset {
     border: none;
     border-bottom: 5px solid #14FFEC;
     /* border: 1px solid #FF9A3C; */
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 #rightCol fieldset legend {
@@ -102,6 +103,7 @@ table tr {
     border: none;
     font: 30px 'Arial';
     /* border: 1px solid; */
+    margin-bottom: 50px;
 }
 
 #rightCol #courses {
