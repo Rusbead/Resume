@@ -1,0 +1,119 @@
+
+#avatar {
+    width: 100%;
+}
+
+.main {
+    height: 2200px;
+}
+
+table {
+    width: 100%;
+}
+
+table td {
+    text-align: left;
+    vertical-align: top;
+
+}
+
+table tr {
+    height: 40px;
+}
+
+
+
+
+
+#leftCol {
+    float: left;
+    width: 26%;
+    background: #0D7377;
+    
+    text-align: left;
+    font: 17px 'Arial';
+    color: black;
+
+    height: 100%;
+}
+
+#leftCol fieldset {
+    margin-bottom: 20px;
+    border: none;
+    border-bottom: 5px solid #14FFEC;
+    width: 100%;
+}
+
+#leftCol fieldset legend {
+    text-align: center;
+    color: white;
+    width: 100%;
+    font: 25px 'Arial';
+}
+
+#leftCol h1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.contactsIcons img {
+    height: 30px; 
+    width: 30px;
+}
+
+#leftCol progress {
+    accent-color: #14FFEC;
+}
+
+#leftCol #hobbies {
+    border: none;
+}
+
+
+
+
+
+#rightCol {
+    float: right;
+    background: #15B7B9;
+
+    text-align: left;
+    width: 74%;
+
+    color: black;
+
+    font: 20px 'Arial';
+
+    height: 100%;
+}
+
+#rightCol fieldset {
+    border: none;
+    border-bottom: 5px solid #14FFEC;
+    /* border: 1px solid #FF9A3C; */
+    margin-bottom: 60px;
+}
+
+#rightCol fieldset legend {
+    text-align: center;
+    color: white;
+    width: 100%;
+    border: none;
+    font: 30px 'Arial';
+    /* border: 1px solid; */
+}
+
+#rightCol #courses {
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
